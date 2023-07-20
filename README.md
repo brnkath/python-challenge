@@ -9,18 +9,18 @@ Repository Structure -
 	- README.md file
 
  - Sub-folders
-	> PyBank
+	- PyBank
 		 - main.py
-		> Analysis
-		 - budget_analysis.txt
-		> Resources
-		 - budget_data.csv
-	> PyPoll
+		 - Analysis
+		 	 - budget_analysis.txt
+		 - Resources
+		 	 - budget_data.csv
+	 - PyPoll
  		 - main.py
-		> Analysis
-		 - voting_analysis.txt
-		> Resources
-		 - election_data.csv
+		 - Analysis
+		 	 - voting_analysis.txt
+		 - Resources
+		 	 - election_data.csv
 
 Overview - 
 
